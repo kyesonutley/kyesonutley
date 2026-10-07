@@ -24,7 +24,7 @@ I build security-critical systems, then try to break them before anyone else can
 
 ### Elsewhere
 
-[kyesonutley.com](https://kyesonutley.com) · [kyesonblakeutley.com](https://kyesonblakeutley.com) · [LinkedIn](https://www.linkedin.com/in/kirasp/) · [X](https://x.com/kyeson_utley) · [ORCID](https://orcid.org/0009-0001-4531-2062) · [Speaker Deck](https://speakerdeck.com/kyesonblakeutley)
+[kyesonutley.com](https://kyesonutley.com) · [kyesonblakeutley.com](https://kyesonblakeutley.com) · [LinkedIn](https://www.linkedin.com/in/kirasp/) · [X](https://x.com/kyeson_utley) · [ORCID](https://orcid.org/0009-0001-4531-2062) · [Speaker Deck](https://speakerdeck.com/kyesonblakeutley) 
 
 ---
 
