@@ -4,6 +4,20 @@ Security engineer and founder of **[GhostKey Development](https://ghostkey.dev)*
 
 I build security-critical systems, then try to break them before anyone else can. Before GhostKey I worked in blockchain forensics, tracing stolen crypto for fraud victims at SpookyGood (2020–2024), and served as CTO of Justice Solutions Group, where I led OnTrial, an AI-assisted investigations platform.
 
+### Quantum Defense: a free post-quantum cryptography course
+
+<a href="https://quantumdefenseservices.com/"><img src="quantum-defense-demo.gif" width="440" align="right" alt="The closest-vector problem: rounding finds the nearest lattice point with a good basis and misses with a skewed basis"></a>
+
+I created **[Quantum Defense](https://quantumdefenseservices.com/)**, a free, interactive course that teaches post-quantum cryptography from first principles to the internals of ML-KEM.
+
+- **18 lessons** in three parts: Foundations (no math), Practitioner (the NIST standards, deadlines and migrations) and Engineer (lattices, ML-KEM, hash-based signatures, side channels)
+- **19 interactives** that run in the browser: factor a toy RSA key, step through Grover's algorithm, forge a reused Lamport signature, recover a secret from response timing
+- Quizzes, a final exam, and every date and deadline sourced to NIST, the NSA, the UK NCSC and the IETF
+
+The animation is the closest-vector problem, the hard problem behind lattice cryptography. [Try it yourself](https://quantumdefenseservices.com/) or [watch the video](https://quantumdefenseservices.com/video/closest-vector-problem/).
+
+<br clear="right">
+
 ### What I work on
 
 - **Post-quantum migration:** cryptographic inventories, hybrid ML-KEM deployment, crypto-agility
@@ -20,26 +34,9 @@ I build security-critical systems, then try to break them before anyone else can
 
 ### Tools
 
+- 🎓 [Quantum Defense](https://quantumdefenseservices.com/): a free interactive course on post-quantum cryptography
 - 🔑 [GhostKey Passphrase Generator](https://ghostkey.dev/passphrase.html): strong passphrases from the EFF wordlist, generated entirely in your browser
 
 ### Elsewhere
 
-[kyesonutley.com](https://kyesonutley.com) · [kyesonblakeutley.com](https://kyesonblakeutley.com) · [LinkedIn](https://www.linkedin.com/in/kirasp/) · [X](https://x.com/kyeson_utley) · [ORCID](https://orcid.org/0009-0001-4531-2062) · [Speaker Deck](https://speakerdeck.com/kyesonblakeutley) 
-
----
-
-<!--
-HOW TO USE
-1. On GitHub, create a new PUBLIC repository named exactly `kyesonutley` (same as your username).
-   GitHub shows that repo's README.md on your profile page.
-2. Paste this file as README.md (delete this comment block first).
-3. In Settings → Public profile:
-   - Name: Kyeson Blake Utley
-   - Bio: Founder, GhostKey Development. Post-quantum cryptography, crypto engineering, offensive security.
-   - Website: https://kyesonutley.com
-   - Location: Texas
-   - Social accounts: x.com/kyeson_utley, linkedin.com/in/kirasp
-   - Profile picture: personal-site/assets/img/kyeson-blake-utley.jpg
-4. Pin at least one public repo. A profile with zero repositories rarely ranks.
-   Easy option: publish the GhostKey passphrase generator source as a repo (if you're comfortable open-sourcing it).
--->
+[kyesonutley.com](https://kyesonutley.com) · [kyesonblakeutley.com](https://kyesonblakeutley.com) · [LinkedIn](https://www.linkedin.com/in/kyesonutley/) · [X](https://x.com/kyeson_utley) · [ORCID](https://orcid.org/0009-0001-4531-2062) · [Speaker Deck](https://speakerdeck.com/kyesonblakeutley)
